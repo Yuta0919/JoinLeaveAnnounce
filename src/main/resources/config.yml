@@ -1,0 +1,4 @@
+JoinMessage: "$PlayerNameが参加しました"
+FirstJoinMessage: "$PlayerNameは初参加です"
+LeaveMessage: "$PlayerNameが退出しました"
+JoinedPlayer: ""

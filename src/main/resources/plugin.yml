@@ -1,0 +1,4 @@
+name: JoinLeaveAnnounce
+version: '${project.version}'
+main: yuta0919.joinleaveannounce.JoinLeaveAnnounce
+api-version: 1.19
